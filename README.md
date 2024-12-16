@@ -69,3 +69,12 @@ sh run.sh
 * pytorch=1.11.0
 * torchvision=0.12.0
 * warmup-scheduler=0.3
+
+  ## Bibtex Citation
+  @inproceedings{ye2025adagk-sgd,
+  title={AdaGK-SGD: Adaptive Global Knowledge Guided Distributed Stochastic Gradient Descent},
+  author={Ye, Hangyu  Xie, Weiying  Li, Yunsong and  Fang, Leyuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={Camera ready},
+  year={2025}
+}
